@@ -1,7 +1,9 @@
 # HR-DATA-ANAYST-PROJECT-
 ANALST FOR HR DATA GIVE SOME INSIGHT 
+
 🔍 Key Insights
 📊 KPI Overview
+
 Total Employees: 1,470
 
 Attrition Cases: 237
